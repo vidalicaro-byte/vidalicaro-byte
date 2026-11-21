@@ -1,123 +1,37 @@
-# Hi there 👋 I'm Pedro Ícaro
+# Pedro Ícaro Vidal
 
-💻 Junior Full Stack Developer focused on building modern, responsive and scalable web applications.
+Full-stack developer focused on React, Node.js and TypeScript. I build web applications end to end and care about code that is tested, documented and shipped.
 
-Passionate about technology, software development and creating clean user experiences.  
-Currently open to remote opportunities and international collaborations.
+Based in Aracaju, Brazil (UTC-3) · Open to remote roles worldwide · English (C2), Portuguese (native), German and Spanish (B1)
 
----
+## Featured projects
 
-## 🚀 Tech Stack
+- **[Estante](https://github.com/vidalicaro-byte/estante)** ([live](https://estante-plum.vercel.app)): book catalog built with Next.js 16, TypeScript and the Open Library API. Lighthouse 100 for accessibility, best practices and SEO. Tested with Vitest and Playwright, with CI on GitHub Actions.
+- **[space-booking-api](https://github.com/vidalicaro-byte/space-booking-api)**: REST API for room booking with schedule-conflict control (Node.js, Express, PostgreSQL, Prisma, Docker).
+- **[DevBurger](https://github.com/vidalicaro-byte/Devburger)** ([interface](https://github.com/vidalicaro-byte/devburger-interface)): full-stack food delivery platform with React, Node.js and PostgreSQL.
 
-### Front-End
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Styled Components
-- React Hooks
-- React Router
-- Responsive Design
-- Axios
-- Vite
+## Stack
 
-### Back-End
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- CRUD Systems
+**Front-end:** React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Styled Components, Vite
+**Back-end:** Node.js, Express, REST APIs, JWT authentication, Prisma
+**Databases:** PostgreSQL, MongoDB
+**Tools:** Git, GitHub Actions, Docker, Vitest, Playwright, Figma, Vercel
 
-### Databases
-- PostgreSQL
-- MongoDB
 
-### Tools & Workflow
-- Git & GitHub
-- Figma
-- VS Code
-- npm
-- API Integration
-- Component-Based Architecture
-- Deployment & Hosting
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/pedroicarovidal/) · [Email](mailto:vidalicaro@outlook.com) · Portfolio (coming soon)
 
 ---
 
+# Português
 
-## 🚀 Tech Stack
+Desenvolvedor full-stack com foco em React, Node.js e TypeScript. Construo aplicações web do começo ao fim e valorizo código testado, documentado e publicado.
 
-### Front-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
-</p>
+Moro em Aracaju (SE) · Aberto a vagas remotas no Brasil e no exterior · Inglês (C2), português (nativo), alemão e espanhol (B1)
 
-### Back-End
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-</p>
+**Projetos em destaque, stack e contato:** veja acima.
 
-### Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-</p>
-
-
-
-## 📌 Featured Project
-
-### 🍔 DevBurger — Full Stack Food Delivery Platform
-
-A complete Full Stack application developed using React, Node.js, PostgreSQL and MongoDB.
-
-#### Features
-- User authentication
-- Shopping cart
-- Admin dashboard
-- Product management
-- Database integration
-- REST API consumption
-- Fully responsive interface
-
----
-
-## 📚 Currently Learning
-- TypeScript
-- Next.js
-- Software Architecture
-- Automated Testing
-- Clean Code Principles
-
----
-
-## 🌍 Open to Work
-
-I’m currently looking for opportunities as a:
-
-- Junior Front-End Developer
-- Junior Full Stack Developer
-- React Developer
-
-Open to:
-- Remote work
-- International teams
-- Freelance projects
-- Collaborative development
-
----
 
 
 
